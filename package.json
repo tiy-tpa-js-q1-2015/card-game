@@ -16,6 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "~3.8.11",
-    "gulp-less": "~3.0.1"
+    "gulp-less": "~3.0.1",
+    "main-bower-files": "~2.5.0",
+    "gulp-concat": "~2.5.2"
   }
 }
